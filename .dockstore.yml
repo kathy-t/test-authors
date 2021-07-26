@@ -11,6 +11,5 @@ workflows:
         role: Software Developer
         affiliation: OICR
       - name: Just Name
-      - name: Just Orcid
-        orcid: 0000-0000-0000-0000
+      - orcid: 0000-0000-0000-0000
         
