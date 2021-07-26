@@ -15,11 +15,6 @@ task md5 {
    memory: "512 MB"
    disks: "local-disk 10 HDD"
  }
- 
- meta {
-   author : "Descriptor Author"
-   email : "descriptor.author@gmail.com"
- }
 }
 
 workflow ga4ghMd5 {
