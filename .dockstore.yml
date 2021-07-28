@@ -12,4 +12,10 @@ workflows:
         affiliation: OICR
       - name: Just Name
       - orcid: 0000-0000-0000-0000
-        
+  - name: foobar2
+    subclass: cwl
+    primaryDescriptorPath: /Dockstore.cwl
+    authors:
+      - name: Potato Author
+        email: potato.author@gmail.com
+      - orcid: 0000-1234-5678-0000
