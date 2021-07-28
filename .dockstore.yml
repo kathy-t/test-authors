@@ -19,3 +19,10 @@ workflows:
       - name: Potato Author
         email: potato.author@gmail.com
       - orcid: 0000-1234-5678-0000
+  - name: foobar3
+    subclass: nfl
+    primaryDescriptorPath: /nextflow.config
+    authors:
+      - name: Tomato Author
+        role: Test User
+      - orcid: 1111-1111-1111-1111
