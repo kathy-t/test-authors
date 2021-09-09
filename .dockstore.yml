@@ -31,6 +31,10 @@ workflows:
       - name: Potato Author
         email: potato.author@gmail.com
       - orcid: 0000-1234-5678-0000
+      - name: Normal Author
+        email: normal.author@gmail.com
+        role: Normal Author Role
+        affililation: Normal Author Affiliation
   - name: foobar3
     subclass: nfl
     primaryDescriptorPath: /nextflow.config
