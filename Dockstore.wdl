@@ -19,6 +19,7 @@ task md5 {
  meta {
    author : "Descriptor Author"
    email : "descriptor.author@gmail.com"
+   description: "Hello"
  }
 }
 
