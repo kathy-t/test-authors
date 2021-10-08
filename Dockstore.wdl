@@ -17,8 +17,8 @@ task md5 {
  }
  
  meta {
-   author : "Edited Descriptor Author 1, Descriptor Author 2"
-   email : "edited.descriptor.author.1@gmail.com, descriptor.author.2@gmail.com"
+   author : "Edited Descriptor Author 1, Edited Descriptor Author 2"
+   email : "edited.descriptor.author.1@gmail.com, edited.descriptor.author.2@gmail.com"
  }
 }
 
