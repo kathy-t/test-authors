@@ -16,6 +16,8 @@ workflows:
         email: test@gmail.com
         role: Software Developer
         affiliation: Ontario Institute for Cancer Research
+      - name: Kathy 2
+        email: kathy2@gmail.com
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
