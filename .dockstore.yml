@@ -18,6 +18,7 @@ workflows:
         affiliation: Ontario Institute for Cancer Research
       - name: Kathy 2
         email: kathy2@gmail.com
+      - orcid: 1111-1111-1111-1111
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
