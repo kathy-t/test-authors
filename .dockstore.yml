@@ -16,6 +16,9 @@ workflows:
         email: test@gmail.com
         role: Software Developer
         affiliation: Ontario Institute for Cancer Research
+      - name: Second Author
+        role: This is a second author
+      - orcid: 1234-5678-1234-5678
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
