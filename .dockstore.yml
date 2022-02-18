@@ -4,22 +4,7 @@ workflows:
     subclass: wdl
     primaryDescriptorPath: /Dockstore.wdl
     authors:
-      - name: Denis Yuen
-        orcid: 0000-0002-6130-1021
-      - name: Gregory Hogue
-        email: gfjhogue@gmail.com
-        role: Software Developer
-        affiliation: OICR
-      - name: Just Name
-      - orcid: 0000-0000-0000-0000
-      - name: Kathy
-        email: test@gmail.com
-        role: Software Developer
-        affiliation: Ontario Institute for Cancer Research
-        orcid: 0000-1234-1234-1234
-      - name: Second Author
-        role: This is a second author
-      - orcid: 1234-5678-1234-5678
+      - orcid: 0000-0001-7641-7724 
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
