@@ -3,9 +3,6 @@ workflows:
   - name: foobar
     subclass: wdl
     primaryDescriptorPath: /Dockstore.wdl
-    authors:
-      - orcid: 0000-0001-7641-7724 
-      - orcid: 0000-0001-7641-7724 
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
