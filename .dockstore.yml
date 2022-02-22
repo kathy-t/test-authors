@@ -3,13 +3,14 @@ workflows:
   - name: foobar
     subclass: wdl
     primaryDescriptorPath: /Dockstore.wdl
+    authors:
+    - orcid: 0000-0001-7641-7724 
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
     authors:
       - name: Potato Author
         email: potato.author@gmail.com
-      - orcid: 0000-1234-5678-0000
       - name: Normal Author
         email: normal.author@gmail.com
         role: Normal Author Role
@@ -20,4 +21,3 @@ workflows:
     authors:
       - name: Tomato Author
         role: Test User
-      - orcid: 1111-1111-1111-1111
