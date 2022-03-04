@@ -6,8 +6,7 @@ workflows:
     authors:
       - name: Denis Yuen
         orcid: 0000-0002-6130-1021
-      - name: Greg
-        email: gfjhogue@gmail.com
+      - email: gfjhogue@gmail.com
         role: Software Developer
         affiliation: OICR
       - name: Just Name
