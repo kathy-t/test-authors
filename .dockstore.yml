@@ -5,7 +5,8 @@ workflows:
     primaryDescriptorPath: /Dockstore.wdl
     authors:
     - orcid: 0000-0001-7641-7724 
-    - email: testme@gmail.com
+    - orcid: 1234-1234-1234-1234
+      email: testme@gmail.com
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
