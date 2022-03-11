@@ -6,9 +6,9 @@ workflows:
     authors:
     - orcid: 0000-0001-7641-7724
     - name: Test Author
-    - role: Test Role
-    - email: foobar@gmail.com
-    - affiliation: Test Organization
+      role: Test Role
+      email: foobar@gmail.com
+      affiliation: Test Organization
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
