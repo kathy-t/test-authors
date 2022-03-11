@@ -4,10 +4,11 @@ workflows:
     subclass: wdl
     primaryDescriptorPath: /Dockstore.wdl
     authors:
-    - orcid: 0000-0001-7641-7724 
-    - orcid: 0000-0001-8365-0487 
-    - orcid: 0000-0002-1928-4854 
-    - orcid: 0000-0002-6709-3948 
+    - orcid: 0000-0001-7641-7724
+    - name: Test Author
+    - role: Test Role
+    - email: foobar@gmail.com
+    - affiliation: Test Organization
   - name: foobar2
     subclass: cwl
     primaryDescriptorPath: /Dockstore.cwl
