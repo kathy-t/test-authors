@@ -5,6 +5,7 @@ workflows:
     primaryDescriptorPath: /Dockstore.wdl
     authors:
     - orcid: 0000-0001-7641-7724
+      name: Test
     - name: Test Author
       role: Test Role
       email: foobar@gmail.com
