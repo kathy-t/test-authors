@@ -39,3 +39,8 @@ workflows:
       - name: Tomato Author
         role: Test User
       - orcid: 1111-1111-1111-1111
+  - name: foobar4
+    subclass: wdl
+    primaryDescriptorPath: /Dockstore.wdl
+    authors:
+      - orcid: 0000-0002-6130-1021
