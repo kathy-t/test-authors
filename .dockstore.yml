@@ -12,4 +12,5 @@ workflows:
         affiliation: OICR
       - name: Just Name
       - orcid: 0000-0000-0000-0000
+      - orcid: 0000-0001-7641-7724
         
